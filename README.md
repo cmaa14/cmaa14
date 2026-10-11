@@ -1,4 +1,4 @@
-## Patrick Valle
+## Patrick 
 
 **Senior Software Engineer · AI-native development · Backend & platform** · Davao, Philippines
 
